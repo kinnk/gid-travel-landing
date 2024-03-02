@@ -96,6 +96,27 @@
     padding: 40px 20px;
   }
 
+  .menuBtn{
+    top: 30px;
+    right: 0;
+  }
+
+  .header__middle{
+    padding-top: 50px;
+  }
+
+  .title{
+    font-size: 64px;
+  }
+
+  .logo{
+    position: absolute;
+    top: 11px;
+    left: 0;
+    height: 80px;
+  }
+
+
   .footer__container{
     display: flex;
     flex-direction: row;
