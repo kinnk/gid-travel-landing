@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap');
+/* base styles */
+@import './styles/base.css';
+/* header nav menu */
+@import './styles/header.css';
+/* main all section */
+@import './styles/main.css';
+/* footer */
+@import './styles/footer.css';
+/* media queries */
+@import './styles/media.css';
+
+
